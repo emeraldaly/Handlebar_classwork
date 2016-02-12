@@ -1,0 +1,24 @@
+{
+  "name": "gameofthrones",
+  "version": "1.0.0",
+  "description": "Game of Thrones node app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emeraldaly/Handlebar_classwork.git"
+  },
+  "author": "Alyson Wright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emeraldaly/Handlebar_classwork/issues"
+  },
+  "homepage": "https://github.com/emeraldaly/Handlebar_classwork#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
